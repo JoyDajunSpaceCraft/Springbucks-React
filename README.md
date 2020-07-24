@@ -1,6 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-This program is cowork with Springbucks (another java repoistory) 
+This program is cowork with Springbucks (another java repoistory)
+ 
 2020/7/24 create a comment web according to guidance.
 simply knowing basic use of React!
 
